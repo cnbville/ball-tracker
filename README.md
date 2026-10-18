@@ -4,7 +4,11 @@ A Mac app for live college football and NFL: a "What's on" TV guide in Berlin ti
 
 Data comes from ESPN's public scoreboard and summary feeds (unofficial, roughly 15 to 30 seconds behind TV). The Rust side makes the requests, so the app needs no API key.
 
-## Build the .dmg
+## Get the .dmg
+
+Every push to `main` builds the app on GitHub: open the repository's Actions tab, pick the latest "Build Mac app" run and download **Gridiron-Live-dmg** under Artifacts. It works on Apple silicon and Intel Macs.
+
+## Build it yourself
 
 You need, once:
 
