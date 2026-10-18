@@ -1,0 +1,16 @@
+{
+  "name": "gridiron-live",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Live college football and NFL play-by-play for the Mac.",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "fixtures": "node tests/make-fixtures.mjs",
+    "test:ui": "node tests/ui.mjs"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.12.3"
+  }
+}

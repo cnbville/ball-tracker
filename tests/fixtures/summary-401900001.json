@@ -1,0 +1,4158 @@
+{
+ "header": {
+  "competitions": [
+   {
+    "date": "2026-10-24T19:30:00Z",
+    "status": {
+     "type": {
+      "state": "in",
+      "shortDetail": "5:58 - 4th"
+     }
+    },
+    "broadcasts": [
+     {
+      "names": [
+       "FOX"
+      ]
+     }
+    ],
+    "competitors": [
+     {
+      "homeAway": "home",
+      "score": "24",
+      "team": {
+       "id": "194",
+       "abbreviation": "OSU",
+       "displayName": "Ohio State Buckeyes",
+       "shortDisplayName": "Ohio State",
+       "color": "ba0c2f",
+       "alternateColor": "a7b1b7",
+       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+       "logos": [
+        {
+         "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+         "rel": [
+          "full",
+          "default"
+         ]
+        }
+       ]
+      },
+      "records": [
+       {
+        "summary": "7-0"
+       }
+      ],
+      "curatedRank": {
+       "current": 99
+      },
+      "rank": 3,
+      "record": [
+       {
+        "summary": "7-0"
+       }
+      ],
+      "linescores": [
+       {
+        "displayValue": "3"
+       },
+       {
+        "displayValue": "7"
+       },
+       {
+        "displayValue": "7"
+       },
+       {
+        "displayValue": "7"
+       }
+      ]
+     },
+     {
+      "homeAway": "away",
+      "score": "21",
+      "team": {
+       "id": "213",
+       "abbreviation": "PSU",
+       "displayName": "Penn State Nittany Lions",
+       "shortDisplayName": "Penn State",
+       "color": "061440",
+       "alternateColor": "ffffff",
+       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+       "logos": [
+        {
+         "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+         "rel": [
+          "full",
+          "default"
+         ]
+        }
+       ]
+      },
+      "records": [
+       {
+        "summary": "6-1"
+       }
+      ],
+      "curatedRank": {
+       "current": 99
+      },
+      "rank": 7,
+      "record": [
+       {
+        "summary": "6-1"
+       }
+      ],
+      "linescores": [
+       {
+        "displayValue": "7"
+       },
+       {
+        "displayValue": "7"
+       },
+       {
+        "displayValue": "7"
+       },
+       {
+        "displayValue": "0"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "situation": {
+  "possession": "213",
+  "downDistanceText": "2nd & 6 at PSU 41"
+ },
+ "drives": {
+  "previous": [
+   {
+    "id": "1",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Punt",
+    "displayResult": "Punt",
+    "isScore": false,
+    "description": "5 plays",
+    "plays": [
+     {
+      "id": "1001",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Julian Sayin pass incomplete right",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "14:54"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1002",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 7 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "14:22"
+      },
+      "start": {
+       "down": 2,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 7,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1003",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 9 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "13:43"
+      },
+      "start": {
+       "down": 3,
+       "distance": 3,
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "3rd & 3",
+       "possessionText": "OSU 32"
+      },
+      "end": {
+       "yardsToEndzone": 59,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 9,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1004",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 6 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "13:15"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 59,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 41"
+      },
+      "end": {
+       "yardsToEndzone": 53,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 6,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1005",
+      "type": {
+       "text": "Punt"
+      },
+      "text": "Jayden Fielding punt for 42 yards, fair catch",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "12:41"
+      },
+      "start": {
+       "down": 4,
+       "distance": 4,
+       "yardsToEndzone": 53,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "4th & 4",
+       "possessionText": "OSU 47"
+      },
+      "end": {
+       "yardsToEndzone": 89,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 42,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     }
+    ]
+   },
+   {
+    "id": "2",
+    "team": {
+     "id": "213",
+     "abbreviation": "PSU"
+    },
+    "result": "Touchdown",
+    "displayResult": "Touchdown",
+    "isScore": true,
+    "description": "9 plays",
+    "plays": [
+     {
+      "id": "1006",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short middle complete to Trebor Pena for 2 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "12:04"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 73,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1007",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short right complete to Luke Reynolds for 15 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "11:32"
+      },
+      "start": {
+       "down": 2,
+       "distance": 8,
+       "yardsToEndzone": 73,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 8",
+       "possessionText": "PSU 27"
+      },
+      "end": {
+       "yardsToEndzone": 58,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 15,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1008",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the left for 1 yard",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "10:59"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 58,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 42"
+      },
+      "end": {
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1009",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short right complete to Trebor Pena for 9 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "10:31"
+      },
+      "start": {
+       "down": 2,
+       "distance": 9,
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 9",
+       "possessionText": "PSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 48,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 9,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1010",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short middle complete to Luke Reynolds for 8 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "9:51"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 48,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 48"
+      },
+      "end": {
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 8,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1011",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete middle",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "9:45"
+      },
+      "start": {
+       "down": 2,
+       "distance": 2,
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 2",
+       "possessionText": "OSU 40"
+      },
+      "end": {
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1012",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short middle complete to Luke Reynolds for 15 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "9:12"
+      },
+      "start": {
+       "down": 3,
+       "distance": 2,
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "3rd & 2",
+       "possessionText": "OSU 40"
+      },
+      "end": {
+       "yardsToEndzone": 25,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 15,
+      "scoringPlay": false,
+      "awayScore": 0,
+      "homeScore": 0
+     },
+     {
+      "id": "1013",
+      "type": {
+       "text": "Passing Touchdown"
+      },
+      "text": "Ethan Grunkemeyer pass deep left complete to Luke Reynolds for 25 yards for a TD",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "8:39"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 25,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 0,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 25,
+      "scoringPlay": true,
+      "awayScore": 6,
+      "homeScore": 0
+     },
+     {
+      "id": "1014",
+      "type": {
+       "text": "Extra Point Good"
+      },
+      "text": "Ryan Barker extra point GOOD",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "8:04"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "",
+       "possessionText": "OSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 7,
+      "homeScore": 0
+     }
+    ]
+   },
+   {
+    "id": "3",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Field Goal",
+    "displayResult": "Field Goal",
+    "isScore": true,
+    "description": "10 plays",
+    "plays": [
+     {
+      "id": "1015",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 8 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "7:24"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 67,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 8,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1016",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short middle complete to Jeremiah Smith for 8 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "6:43"
+      },
+      "start": {
+       "down": 2,
+       "distance": 2,
+       "yardsToEndzone": 67,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 2",
+       "possessionText": "OSU 33"
+      },
+      "end": {
+       "yardsToEndzone": 59,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 8,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1017",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short middle complete to Max Klare for 4 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "6:11"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 59,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 41"
+      },
+      "end": {
+       "yardsToEndzone": 55,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 4,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1018",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short left complete to Jeremiah Smith for 14 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "5:42"
+      },
+      "start": {
+       "down": 2,
+       "distance": 6,
+       "yardsToEndzone": 55,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 6",
+       "possessionText": "OSU 45"
+      },
+      "end": {
+       "yardsToEndzone": 41,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 14,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1019",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 1 yard",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "5:11"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 41,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 41"
+      },
+      "end": {
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1020",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 4 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "4:42"
+      },
+      "start": {
+       "down": 2,
+       "distance": 9,
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 9",
+       "possessionText": "PSU 40"
+      },
+      "end": {
+       "yardsToEndzone": 36,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 4,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1021",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 14 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "4:04"
+      },
+      "start": {
+       "down": 3,
+       "distance": 5,
+       "yardsToEndzone": 36,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "3rd & 5",
+       "possessionText": "PSU 36"
+      },
+      "end": {
+       "yardsToEndzone": 22,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 14,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1022",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the left for 2 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "3:36"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 22,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 22"
+      },
+      "end": {
+       "yardsToEndzone": 20,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1023",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 7 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "2:59"
+      },
+      "start": {
+       "down": 2,
+       "distance": 8,
+       "yardsToEndzone": 20,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 8",
+       "possessionText": "PSU 20"
+      },
+      "end": {
+       "yardsToEndzone": 13,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 7,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 0
+     },
+     {
+      "id": "1024",
+      "type": {
+       "text": "Field Goal Good"
+      },
+      "text": "Jayden Fielding 30 yd field goal GOOD",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "2:19"
+      },
+      "start": {
+       "down": 4,
+       "distance": 1,
+       "yardsToEndzone": 13,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "4th & 1",
+       "possessionText": "PSU 13"
+      },
+      "end": {
+       "yardsToEndzone": 13,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 7,
+      "homeScore": 3
+     }
+    ]
+   },
+   {
+    "id": "4",
+    "team": {
+     "id": "213",
+     "abbreviation": "PSU"
+    },
+    "result": "Punt",
+    "displayResult": "Punt",
+    "isScore": false,
+    "description": "4 plays",
+    "plays": [
+     {
+      "id": "1025",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the left for 8 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "1:45"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 80,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 20"
+      },
+      "end": {
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 8,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1026",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete right",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "1:39"
+      },
+      "start": {
+       "down": 2,
+       "distance": 2,
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 2",
+       "possessionText": "PSU 28"
+      },
+      "end": {
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1027",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short right complete to Luke Reynolds for 0 yards",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "0:58"
+      },
+      "start": {
+       "down": 3,
+       "distance": 2,
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "3rd & 2",
+       "possessionText": "PSU 28"
+      },
+      "end": {
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1028",
+      "type": {
+       "text": "Punt"
+      },
+      "text": "Ryan Barker punt for 42 yards, fair catch",
+      "period": {
+       "number": 1
+      },
+      "clock": {
+       "displayValue": "0:21"
+      },
+      "start": {
+       "down": 4,
+       "distance": 2,
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "4th & 2",
+       "possessionText": "PSU 28"
+      },
+      "end": {
+       "yardsToEndzone": 70,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 42,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     }
+    ]
+   },
+   {
+    "id": "5",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Punt",
+    "displayResult": "Punt",
+    "isScore": false,
+    "description": "5 plays",
+    "plays": [
+     {
+      "id": "1029",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 2 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "14:32"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 70,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 30"
+      },
+      "end": {
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1030",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short middle complete to Max Klare for 11 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "14:03"
+      },
+      "start": {
+       "down": 2,
+       "distance": 8,
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 8",
+       "possessionText": "OSU 32"
+      },
+      "end": {
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 11,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1031",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 6 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "13:35"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 51,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 6,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1032",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass deep right complete to Jeremiah Smith for 16 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "13:02"
+      },
+      "start": {
+       "down": 2,
+       "distance": 4,
+       "yardsToEndzone": 51,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 4",
+       "possessionText": "OSU 49"
+      },
+      "end": {
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 16,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1033",
+      "type": {
+       "text": "Punt"
+      },
+      "text": "Jayden Fielding punt for 42 yards, fair catch",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "12:24"
+      },
+      "start": {
+       "down": 4,
+       "distance": 10,
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "4th & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 95,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 42,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     }
+    ]
+   },
+   {
+    "id": "6",
+    "team": {
+     "id": "213",
+     "abbreviation": "PSU"
+    },
+    "result": "Touchdown",
+    "displayResult": "Touchdown",
+    "isScore": true,
+    "description": "8 plays",
+    "plays": [
+     {
+      "id": "1034",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run up the middle for 2 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "11:44"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 72,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 28"
+      },
+      "end": {
+       "yardsToEndzone": 70,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1035",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the right for 6 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "11:12"
+      },
+      "start": {
+       "down": 2,
+       "distance": 8,
+       "yardsToEndzone": 70,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 8",
+       "possessionText": "PSU 30"
+      },
+      "end": {
+       "yardsToEndzone": 64,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 6,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1036",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the left for 2 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "10:31"
+      },
+      "start": {
+       "down": 3,
+       "distance": 2,
+       "yardsToEndzone": 64,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "3rd & 2",
+       "possessionText": "PSU 36"
+      },
+      "end": {
+       "yardsToEndzone": 62,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1037",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short right complete to Luke Reynolds for 14 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "9:54"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 62,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 38"
+      },
+      "end": {
+       "yardsToEndzone": 48,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 14,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1038",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete middle",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "9:48"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 48,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 48"
+      },
+      "end": {
+       "yardsToEndzone": 48,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1039",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short middle complete to Luke Reynolds for 15 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "9:14"
+      },
+      "start": {
+       "down": 2,
+       "distance": 10,
+       "yardsToEndzone": 48,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 10",
+       "possessionText": "OSU 48"
+      },
+      "end": {
+       "yardsToEndzone": 33,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 15,
+      "scoringPlay": false,
+      "awayScore": 7,
+      "homeScore": 3
+     },
+     {
+      "id": "1040",
+      "type": {
+       "text": "Passing Touchdown"
+      },
+      "text": "Ethan Grunkemeyer pass deep left complete to Trebor Pena for 33 yards for a TD",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "8:39"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 33,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 33"
+      },
+      "end": {
+       "yardsToEndzone": 0,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 33,
+      "scoringPlay": true,
+      "awayScore": 13,
+      "homeScore": 3
+     },
+     {
+      "id": "1041",
+      "type": {
+       "text": "Extra Point Good"
+      },
+      "text": "Ryan Barker extra point GOOD",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "8:04"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "",
+       "possessionText": "OSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 14,
+      "homeScore": 3
+     }
+    ]
+   },
+   {
+    "id": "7",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Touchdown",
+    "displayResult": "Touchdown",
+    "isScore": true,
+    "description": "12 plays",
+    "plays": [
+     {
+      "id": "1042",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the left for 7 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "7:32"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 7,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1043",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the left for 7 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "7:01"
+      },
+      "start": {
+       "down": 2,
+       "distance": 3,
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 3",
+       "possessionText": "OSU 32"
+      },
+      "end": {
+       "yardsToEndzone": 61,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 7,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1044",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 1 yard",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "6:22"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 61,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 39"
+      },
+      "end": {
+       "yardsToEndzone": 60,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1045",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Max Klare for 11 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "5:44"
+      },
+      "start": {
+       "down": 2,
+       "distance": 9,
+       "yardsToEndzone": 60,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 9",
+       "possessionText": "OSU 40"
+      },
+      "end": {
+       "yardsToEndzone": 49,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 11,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1046",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short left complete to Max Klare for 14 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "5:15"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 49,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 49"
+      },
+      "end": {
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 14,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1047",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Julian Sayin pass incomplete left",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "5:09"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1048",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Julian Sayin pass incomplete middle",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "5:03"
+      },
+      "start": {
+       "down": 2,
+       "distance": 10,
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1049",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the left for 1 yard",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "4:26"
+      },
+      "start": {
+       "down": 3,
+       "distance": 10,
+       "yardsToEndzone": 35,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "3rd & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 34,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1050",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 9 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "3:49"
+      },
+      "start": {
+       "down": 4,
+       "distance": 9,
+       "yardsToEndzone": 34,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "4th & 9",
+       "possessionText": "PSU 34"
+      },
+      "end": {
+       "yardsToEndzone": 25,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 9,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1051",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the left for 4 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "3:18"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 25,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 21,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 4,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 3
+     },
+     {
+      "id": "1052",
+      "type": {
+       "text": "Passing Touchdown"
+      },
+      "text": "Julian Sayin pass deep right complete to Jeremiah Smith for 21 yards for a TD",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "2:48"
+      },
+      "start": {
+       "down": 2,
+       "distance": 6,
+       "yardsToEndzone": 21,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 6",
+       "possessionText": "PSU 21"
+      },
+      "end": {
+       "yardsToEndzone": 0,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 21,
+      "scoringPlay": true,
+      "awayScore": 14,
+      "homeScore": 9
+     },
+     {
+      "id": "1053",
+      "type": {
+       "text": "Extra Point Good"
+      },
+      "text": "Jayden Fielding extra point GOOD",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "2:13"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "",
+       "possessionText": "PSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 14,
+      "homeScore": 10
+     }
+    ]
+   },
+   {
+    "id": "8",
+    "team": {
+     "id": "213",
+     "abbreviation": "PSU"
+    },
+    "result": "End of Half",
+    "displayResult": "End of Half",
+    "isScore": false,
+    "description": "4 plays",
+    "plays": [
+     {
+      "id": "1054",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete left",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "2:07"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1055",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the left for 1 yard",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "1:30"
+      },
+      "start": {
+       "down": 2,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 10",
+       "possessionText": "PSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 74,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1056",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the left for 9 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "0:57"
+      },
+      "start": {
+       "down": 3,
+       "distance": 9,
+       "yardsToEndzone": 74,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "3rd & 9",
+       "possessionText": "PSU 26"
+      },
+      "end": {
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 9,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1057",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run up the middle for 0 yards",
+      "period": {
+       "number": 2
+      },
+      "clock": {
+       "displayValue": "0:28"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     }
+    ]
+   },
+   {
+    "id": "9",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Touchdown",
+    "displayResult": "Touchdown",
+    "isScore": true,
+    "description": "10 plays",
+    "plays": [
+     {
+      "id": "1058",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Max Klare for 12 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "14:21"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 63,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 12,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1059",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short middle complete to Max Klare for 11 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "13:48"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 63,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 37"
+      },
+      "end": {
+       "yardsToEndzone": 52,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 11,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1060",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 5 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "13:11"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 52,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 48"
+      },
+      "end": {
+       "yardsToEndzone": 47,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 5,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1061",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 14 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "12:37"
+      },
+      "start": {
+       "down": 2,
+       "distance": 5,
+       "yardsToEndzone": 47,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 5",
+       "possessionText": "PSU 47"
+      },
+      "end": {
+       "yardsToEndzone": 33,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 14,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1062",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass deep middle complete to Max Klare for 16 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "12:05"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 33,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 33"
+      },
+      "end": {
+       "yardsToEndzone": 17,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 16,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1063",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 12 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "11:35"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 17,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 17"
+      },
+      "end": {
+       "yardsToEndzone": 5,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 12,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1064",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 2 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "10:59"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 5,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 5"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1065",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 2 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "10:19"
+      },
+      "start": {
+       "down": 2,
+       "distance": 8,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 8",
+       "possessionText": "PSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 1,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 10
+     },
+     {
+      "id": "1066",
+      "type": {
+       "text": "Passing Touchdown"
+      },
+      "text": "Julian Sayin pass short left complete to Jeremiah Smith for 1 yards for a TD",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "9:45"
+      },
+      "start": {
+       "down": 3,
+       "distance": 6,
+       "yardsToEndzone": 1,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "3rd & 6",
+       "possessionText": "PSU 1"
+      },
+      "end": {
+       "yardsToEndzone": 0,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": true,
+      "awayScore": 14,
+      "homeScore": 16
+     },
+     {
+      "id": "1067",
+      "type": {
+       "text": "Extra Point Good"
+      },
+      "text": "Jayden Fielding extra point GOOD",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "9:15"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "",
+       "possessionText": "PSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 14,
+      "homeScore": 17
+     }
+    ]
+   },
+   {
+    "id": "10",
+    "team": {
+     "id": "213",
+     "abbreviation": "PSU"
+    },
+    "result": "Touchdown",
+    "displayResult": "Touchdown",
+    "isScore": true,
+    "description": "10 plays",
+    "plays": [
+     {
+      "id": "1068",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the right for 8 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "8:43"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 67,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 8,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1069",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short left complete to Trebor Pena for 2 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "8:15"
+      },
+      "start": {
+       "down": 2,
+       "distance": 2,
+       "yardsToEndzone": 67,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 2",
+       "possessionText": "PSU 33"
+      },
+      "end": {
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1070",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete middle",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "8:09"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1071",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete right",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "8:03"
+      },
+      "start": {
+       "down": 2,
+       "distance": 10,
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1072",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the right for 2 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "7:26"
+      },
+      "start": {
+       "down": 3,
+       "distance": 10,
+       "yardsToEndzone": 65,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "3rd & 10",
+       "possessionText": "PSU 35"
+      },
+      "end": {
+       "yardsToEndzone": 63,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1073",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run to the left for 6 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "6:47"
+      },
+      "start": {
+       "down": 4,
+       "distance": 8,
+       "yardsToEndzone": 63,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "4th & 8",
+       "possessionText": "PSU 37"
+      },
+      "end": {
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 6,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1074",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short left complete to Trebor Pena for 2 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "6:06"
+      },
+      "start": {
+       "down": 4,
+       "distance": 2,
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "4th & 2",
+       "possessionText": "PSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 55,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1075",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short right complete to Trebor Pena for 12 yards",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "5:30"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 55,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 45"
+      },
+      "end": {
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 12,
+      "scoringPlay": false,
+      "awayScore": 14,
+      "homeScore": 17
+     },
+     {
+      "id": "1076",
+      "type": {
+       "text": "Passing Touchdown"
+      },
+      "text": "Ethan Grunkemeyer pass deep left complete to Luke Reynolds for 43 yards for a TD",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "4:54"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 0,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 43,
+      "scoringPlay": true,
+      "awayScore": 20,
+      "homeScore": 17
+     },
+     {
+      "id": "1077",
+      "type": {
+       "text": "Extra Point Good"
+      },
+      "text": "Ryan Barker extra point GOOD",
+      "period": {
+       "number": 3
+      },
+      "clock": {
+       "displayValue": "4:18"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "",
+       "possessionText": "OSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 21,
+      "homeScore": 17
+     }
+    ]
+   },
+   {
+    "id": "11",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Interception",
+    "displayResult": "Interception",
+    "isScore": false,
+    "description": "6 plays",
+    "plays": [
+     {
+      "id": "1078",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 6 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "14:21"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 69,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 6,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1079",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Max Klare for 1 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "13:42"
+      },
+      "start": {
+       "down": 2,
+       "distance": 4,
+       "yardsToEndzone": 69,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 4",
+       "possessionText": "OSU 31"
+      },
+      "end": {
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 1,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1080",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 2 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "13:03"
+      },
+      "start": {
+       "down": 3,
+       "distance": 3,
+       "yardsToEndzone": 68,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "3rd & 3",
+       "possessionText": "OSU 32"
+      },
+      "end": {
+       "yardsToEndzone": 66,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1081",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 13 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "12:23"
+      },
+      "start": {
+       "down": 4,
+       "distance": 1,
+       "yardsToEndzone": 66,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "4th & 1",
+       "possessionText": "OSU 34"
+      },
+      "end": {
+       "yardsToEndzone": 53,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 13,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1082",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short left complete to Jeremiah Smith for 2 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "11:42"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 53,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 47"
+      },
+      "end": {
+       "yardsToEndzone": 51,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1083",
+      "type": {
+       "text": "Pass Interception Return"
+      },
+      "text": "Julian Sayin pass intercepted by Trebor Pena",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "11:13"
+      },
+      "start": {
+       "down": 2,
+       "distance": 8,
+       "yardsToEndzone": 51,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 8",
+       "possessionText": "OSU 49"
+      },
+      "end": {
+       "yardsToEndzone": 49,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     }
+    ]
+   },
+   {
+    "id": "12",
+    "team": {
+     "id": "213",
+     "abbreviation": "PSU"
+    },
+    "result": "Fumble",
+    "displayResult": "Fumble",
+    "isScore": false,
+    "description": "6 plays",
+    "plays": [
+     {
+      "id": "1084",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Ethan Grunkemeyer pass short right complete to Luke Reynolds for 14 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "10:43"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 60,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 40"
+      },
+      "end": {
+       "yardsToEndzone": 46,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 14,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1085",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete middle",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "10:37"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 46,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 46"
+      },
+      "end": {
+       "yardsToEndzone": 46,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1086",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Kaytron Allen run up the middle for 3 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "10:06"
+      },
+      "start": {
+       "down": 2,
+       "distance": 10,
+       "yardsToEndzone": 46,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "2nd & 10",
+       "possessionText": "OSU 46"
+      },
+      "end": {
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 3,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1087",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete left",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "10:00"
+      },
+      "start": {
+       "down": 3,
+       "distance": 7,
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "3rd & 7",
+       "possessionText": "OSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1088",
+      "type": {
+       "text": "Pass Incompletion"
+      },
+      "text": "Ethan Grunkemeyer pass incomplete middle",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "9:54"
+      },
+      "start": {
+       "down": 4,
+       "distance": 7,
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "4th & 7",
+       "possessionText": "OSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1089",
+      "type": {
+       "text": "Fumble Recovery (Opponent)"
+      },
+      "text": "Kaytron Allen run for 3 yards, FUMBLES, recovered by OSU",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "9:15"
+      },
+      "start": {
+       "down": 4,
+       "distance": 7,
+       "yardsToEndzone": 43,
+       "team": {
+        "id": "213"
+       },
+       "shortDownDistanceText": "4th & 7",
+       "possessionText": "OSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 60,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 3,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     }
+    ]
+   },
+   {
+    "id": "90",
+    "team": {
+     "id": "194",
+     "abbreviation": "OSU"
+    },
+    "result": "Touchdown",
+    "displayResult": "Touchdown",
+    "isScore": true,
+    "description": "7 plays, 75 yards, 3:12",
+    "plays": [
+     {
+      "id": "1090",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 12 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "9:23"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 75,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 25"
+      },
+      "end": {
+       "yardsToEndzone": 63,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 12,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1091",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run up the middle for 6 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "8:47"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 63,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "OSU 37"
+      },
+      "end": {
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 6,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1092",
+      "type": {
+       "text": "Pass Reception"
+      },
+      "text": "Julian Sayin pass short right complete to Jeremiah Smith for 12 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "8:06"
+      },
+      "start": {
+       "down": 2,
+       "distance": 4,
+       "yardsToEndzone": 57,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 4",
+       "possessionText": "OSU 43"
+      },
+      "end": {
+       "yardsToEndzone": 45,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 12,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1093",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 5 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "7:30"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 45,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "1st & 10",
+       "possessionText": "PSU 45"
+      },
+      "end": {
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 5,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1094",
+      "type": {
+       "text": "Rush"
+      },
+      "text": "Bo Jackson run to the right for 2 yards",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "7:00"
+      },
+      "start": {
+       "down": 2,
+       "distance": 5,
+       "yardsToEndzone": 40,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "2nd & 5",
+       "possessionText": "PSU 40"
+      },
+      "end": {
+       "yardsToEndzone": 38,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 2,
+      "scoringPlay": false,
+      "awayScore": 21,
+      "homeScore": 17
+     },
+     {
+      "id": "1095",
+      "type": {
+       "text": "Passing Touchdown"
+      },
+      "text": "Julian Sayin pass deep left complete to Jeremiah Smith for 38 yards for a TD",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "6:46"
+      },
+      "start": {
+       "down": 3,
+       "distance": 3,
+       "yardsToEndzone": 38,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "3rd & 3",
+       "possessionText": "PSU 38"
+      },
+      "end": {
+       "yardsToEndzone": 0,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 38,
+      "scoringPlay": true,
+      "awayScore": 21,
+      "homeScore": 23
+     },
+     {
+      "id": "1096",
+      "type": {
+       "text": "Extra Point Good"
+      },
+      "text": "Jayden Fielding extra point GOOD",
+      "period": {
+       "number": 4
+      },
+      "clock": {
+       "displayValue": "5:48"
+      },
+      "start": {
+       "down": 1,
+       "distance": 10,
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       },
+       "shortDownDistanceText": "",
+       "possessionText": "PSU 3"
+      },
+      "end": {
+       "yardsToEndzone": 3,
+       "team": {
+        "id": "194"
+       }
+      },
+      "statYardage": 0,
+      "scoringPlay": true,
+      "awayScore": 21,
+      "homeScore": 24
+     }
+    ]
+   }
+  ],
+  "current": {
+   "id": "91",
+   "team": {
+    "id": "213",
+    "abbreviation": "PSU"
+   },
+   "description": "3 plays, 16 yards, 0:44",
+   "plays": [
+    {
+     "id": "1097",
+     "type": {
+      "text": "Kickoff"
+     },
+     "text": "Jayden Fielding kickoff for 65 yards, touchback",
+     "period": {
+      "number": 4
+     },
+     "clock": {
+      "displayValue": "6:46"
+     },
+     "start": {
+      "down": 1,
+      "distance": 10,
+      "yardsToEndzone": 65,
+      "team": {
+       "id": "194"
+      },
+      "shortDownDistanceText": "",
+      "possessionText": "OSU 35"
+     },
+     "end": {
+      "yardsToEndzone": 75,
+      "team": {
+       "id": "213"
+      }
+     },
+     "statYardage": 0,
+     "scoringPlay": false,
+     "awayScore": 21,
+     "homeScore": 24
+    },
+    {
+     "id": "1098",
+     "type": {
+      "text": "Rush"
+     },
+     "text": "Kaytron Allen run to the left for 3 yards",
+     "period": {
+      "number": 4
+     },
+     "clock": {
+      "displayValue": "4:46"
+     },
+     "start": {
+      "down": 1,
+      "distance": 10,
+      "yardsToEndzone": 75,
+      "team": {
+       "id": "213"
+      },
+      "shortDownDistanceText": "1st & 10",
+      "possessionText": "PSU 25"
+     },
+     "end": {
+      "yardsToEndzone": 72,
+      "team": {
+       "id": "213"
+      }
+     },
+     "statYardage": 3,
+     "scoringPlay": false,
+     "awayScore": 21,
+     "homeScore": 24
+    },
+    {
+     "id": "1099",
+     "type": {
+      "text": "Pass Reception"
+     },
+     "text": "Ethan Grunkemeyer pass short left complete to Luke Reynolds for 9 yards",
+     "period": {
+      "number": 4
+     },
+     "clock": {
+      "displayValue": "4:14"
+     },
+     "start": {
+      "down": 2,
+      "distance": 7,
+      "yardsToEndzone": 72,
+      "team": {
+       "id": "213"
+      },
+      "shortDownDistanceText": "2nd & 7",
+      "possessionText": "PSU 28"
+     },
+     "end": {
+      "yardsToEndzone": 63,
+      "team": {
+       "id": "213"
+      }
+     },
+     "statYardage": 9,
+     "scoringPlay": false,
+     "awayScore": 21,
+     "homeScore": 24
+    },
+    {
+     "id": "1100",
+     "type": {
+      "text": "Rush"
+     },
+     "text": "Kaytron Allen run to the left for 4 yards",
+     "period": {
+      "number": 4
+     },
+     "clock": {
+      "displayValue": "6:01"
+     },
+     "start": {
+      "down": 1,
+      "distance": 10,
+      "yardsToEndzone": 63,
+      "team": {
+       "id": "213"
+      },
+      "shortDownDistanceText": "1st & 10",
+      "possessionText": "PSU 37"
+     },
+     "end": {
+      "yardsToEndzone": 59,
+      "team": {
+       "id": "213"
+      }
+     },
+     "statYardage": 4,
+     "scoringPlay": false,
+     "awayScore": 21,
+     "homeScore": 24
+    }
+   ]
+  }
+ },
+ "winprobability": [
+  {
+   "playId": "1001",
+   "homeWinPercentage": 0.484
+  },
+  {
+   "playId": "1002",
+   "homeWinPercentage": 0.496
+  },
+  {
+   "playId": "1003",
+   "homeWinPercentage": 0.516
+  },
+  {
+   "playId": "1004",
+   "homeWinPercentage": 0.524
+  },
+  {
+   "playId": "1005",
+   "homeWinPercentage": 0.524
+  },
+  {
+   "playId": "1006",
+   "homeWinPercentage": 0.532
+  },
+  {
+   "playId": "1007",
+   "homeWinPercentage": 0.488
+  },
+  {
+   "playId": "1008",
+   "homeWinPercentage": 0.5
+  },
+  {
+   "playId": "1009",
+   "homeWinPercentage": 0.48
+  },
+  {
+   "playId": "1010",
+   "homeWinPercentage": 0.464
+  },
+  {
+   "playId": "1011",
+   "homeWinPercentage": 0.48
+  },
+  {
+   "playId": "1012",
+   "homeWinPercentage": 0.436
+  },
+  {
+   "playId": "1013",
+   "homeWinPercentage": 0.316
+  },
+  {
+   "playId": "1014",
+   "homeWinPercentage": 0.316
+  },
+  {
+   "playId": "1015",
+   "homeWinPercentage": 0.332
+  },
+  {
+   "playId": "1016",
+   "homeWinPercentage": 0.348
+  },
+  {
+   "playId": "1017",
+   "homeWinPercentage": 0.348
+  },
+  {
+   "playId": "1018",
+   "homeWinPercentage": 0.388
+  },
+  {
+   "playId": "1019",
+   "homeWinPercentage": 0.376
+  },
+  {
+   "playId": "1020",
+   "homeWinPercentage": 0.376
+  },
+  {
+   "playId": "1021",
+   "homeWinPercentage": 0.416
+  },
+  {
+   "playId": "1022",
+   "homeWinPercentage": 0.408
+  },
+  {
+   "playId": "1023",
+   "homeWinPercentage": 0.42
+  },
+  {
+   "playId": "1024",
+   "homeWinPercentage": 0.47
+  },
+  {
+   "playId": "1025",
+   "homeWinPercentage": 0.454
+  },
+  {
+   "playId": "1026",
+   "homeWinPercentage": 0.47
+  },
+  {
+   "playId": "1027",
+   "homeWinPercentage": 0.486
+  },
+  {
+   "playId": "1028",
+   "homeWinPercentage": 0.486
+  },
+  {
+   "playId": "1029",
+   "homeWinPercentage": 0.478
+  },
+  {
+   "playId": "1030",
+   "homeWinPercentage": 0.506
+  },
+  {
+   "playId": "1031",
+   "homeWinPercentage": 0.514
+  },
+  {
+   "playId": "1032",
+   "homeWinPercentage": 0.562
+  },
+  {
+   "playId": "1033",
+   "homeWinPercentage": 0.562
+  },
+  {
+   "playId": "1034",
+   "homeWinPercentage": 0.57
+  },
+  {
+   "playId": "1035",
+   "homeWinPercentage": 0.562
+  },
+  {
+   "playId": "1036",
+   "homeWinPercentage": 0.57
+  },
+  {
+   "playId": "1037",
+   "homeWinPercentage": 0.53
+  },
+  {
+   "playId": "1038",
+   "homeWinPercentage": 0.546
+  },
+  {
+   "playId": "1039",
+   "homeWinPercentage": 0.502
+  },
+  {
+   "playId": "1040",
+   "homeWinPercentage": 0.382
+  },
+  {
+   "playId": "1041",
+   "homeWinPercentage": 0.382
+  },
+  {
+   "playId": "1042",
+   "homeWinPercentage": 0.394
+  },
+  {
+   "playId": "1043",
+   "homeWinPercentage": 0.406
+  },
+  {
+   "playId": "1044",
+   "homeWinPercentage": 0.394
+  },
+  {
+   "playId": "1045",
+   "homeWinPercentage": 0.422
+  },
+  {
+   "playId": "1046",
+   "homeWinPercentage": 0.462
+  },
+  {
+   "playId": "1047",
+   "homeWinPercentage": 0.446
+  },
+  {
+   "playId": "1048",
+   "homeWinPercentage": 0.43
+  },
+  {
+   "playId": "1049",
+   "homeWinPercentage": 0.418
+  },
+  {
+   "playId": "1050",
+   "homeWinPercentage": 0.438
+  },
+  {
+   "playId": "1051",
+   "homeWinPercentage": 0.438
+  },
+  {
+   "playId": "1052",
+   "homeWinPercentage": 0.558
+  },
+  {
+   "playId": "1053",
+   "homeWinPercentage": 0.558
+  },
+  {
+   "playId": "1054",
+   "homeWinPercentage": 0.574
+  },
+  {
+   "playId": "1055",
+   "homeWinPercentage": 0.586
+  },
+  {
+   "playId": "1056",
+   "homeWinPercentage": 0.566
+  },
+  {
+   "playId": "1057",
+   "homeWinPercentage": 0.582
+  },
+  {
+   "playId": "1058",
+   "homeWinPercentage": 0.614
+  },
+  {
+   "playId": "1059",
+   "homeWinPercentage": 0.642
+  },
+  {
+   "playId": "1060",
+   "homeWinPercentage": 0.646
+  },
+  {
+   "playId": "1061",
+   "homeWinPercentage": 0.686
+  },
+  {
+   "playId": "1062",
+   "homeWinPercentage": 0.734
+  },
+  {
+   "playId": "1063",
+   "homeWinPercentage": 0.766
+  },
+  {
+   "playId": "1064",
+   "homeWinPercentage": 0.758
+  },
+  {
+   "playId": "1065",
+   "homeWinPercentage": 0.77
+  },
+  {
+   "playId": "1066",
+   "homeWinPercentage": 0.89
+  },
+  {
+   "playId": "1067",
+   "homeWinPercentage": 0.89
+  },
+  {
+   "playId": "1068",
+   "homeWinPercentage": 0.874
+  },
+  {
+   "playId": "1069",
+   "homeWinPercentage": 0.882
+  },
+  {
+   "playId": "1070",
+   "homeWinPercentage": 0.898
+  },
+  {
+   "playId": "1071",
+   "homeWinPercentage": 0.914
+  },
+  {
+   "playId": "1072",
+   "homeWinPercentage": 0.922
+  },
+  {
+   "playId": "1073",
+   "homeWinPercentage": 0.914
+  },
+  {
+   "playId": "1074",
+   "homeWinPercentage": 0.922
+  },
+  {
+   "playId": "1075",
+   "homeWinPercentage": 0.89
+  },
+  {
+   "playId": "1076",
+   "homeWinPercentage": 0.77
+  },
+  {
+   "playId": "1077",
+   "homeWinPercentage": 0.77
+  },
+  {
+   "playId": "1078",
+   "homeWinPercentage": 0.778
+  },
+  {
+   "playId": "1079",
+   "homeWinPercentage": 0.766
+  },
+  {
+   "playId": "1080",
+   "homeWinPercentage": 0.758
+  },
+  {
+   "playId": "1081",
+   "homeWinPercentage": 0.794
+  },
+  {
+   "playId": "1082",
+   "homeWinPercentage": 0.786
+  },
+  {
+   "playId": "1083",
+   "homeWinPercentage": 0.696
+  },
+  {
+   "playId": "1084",
+   "homeWinPercentage": 0.656
+  },
+  {
+   "playId": "1085",
+   "homeWinPercentage": 0.672
+  },
+  {
+   "playId": "1086",
+   "homeWinPercentage": 0.676
+  },
+  {
+   "playId": "1087",
+   "homeWinPercentage": 0.692
+  },
+  {
+   "playId": "1088",
+   "homeWinPercentage": 0.708
+  },
+  {
+   "playId": "1089",
+   "homeWinPercentage": 0.798
+  },
+  {
+   "playId": "1090",
+   "homeWinPercentage": 0.49
+  },
+  {
+   "playId": "1091",
+   "homeWinPercentage": 0.5
+  },
+  {
+   "playId": "1092",
+   "homeWinPercentage": 0.55
+  },
+  {
+   "playId": "1093",
+   "homeWinPercentage": 0.56
+  },
+  {
+   "playId": "1094",
+   "homeWinPercentage": 0.53
+  },
+  {
+   "playId": "1095",
+   "homeWinPercentage": 0.71
+  },
+  {
+   "playId": "1096",
+   "homeWinPercentage": 0.71
+  },
+  {
+   "playId": "1097",
+   "homeWinPercentage": 0.72
+  },
+  {
+   "playId": "1098",
+   "homeWinPercentage": 0.72
+  },
+  {
+   "playId": "1099",
+   "homeWinPercentage": 0.69
+  },
+  {
+   "playId": "1100",
+   "homeWinPercentage": 0.71
+  }
+ ],
+ "gameInfo": {
+  "venue": {
+   "fullName": "Ohio Stadium",
+   "address": {
+    "city": "Columbus"
+   }
+  }
+ },
+ "boxscore": {
+  "teams": [
+   {
+    "team": {
+     "id": "213"
+    },
+    "statistics": [
+     {
+      "name": "totalYards",
+      "label": "Total Yards",
+      "displayValue": "356"
+     },
+     {
+      "name": "netPassingYards",
+      "label": "Passing",
+      "displayValue": "201"
+     },
+     {
+      "name": "rushingYards",
+      "label": "Rushing",
+      "displayValue": "155"
+     },
+     {
+      "name": "firstDowns",
+      "label": "1st Downs",
+      "displayValue": "19"
+     },
+     {
+      "name": "thirdDownEff",
+      "label": "3rd down efficiency",
+      "displayValue": "5-12"
+     },
+     {
+      "name": "turnovers",
+      "label": "Turnovers",
+      "displayValue": "1"
+     },
+     {
+      "name": "possessionTime",
+      "label": "Possession",
+      "displayValue": "25:52"
+     }
+    ]
+   },
+   {
+    "team": {
+     "id": "194"
+    },
+    "statistics": [
+     {
+      "name": "totalYards",
+      "label": "Total Yards",
+      "displayValue": "412"
+     },
+     {
+      "name": "netPassingYards",
+      "label": "Passing",
+      "displayValue": "268"
+     },
+     {
+      "name": "rushingYards",
+      "label": "Rushing",
+      "displayValue": "144"
+     },
+     {
+      "name": "firstDowns",
+      "label": "1st Downs",
+      "displayValue": "22"
+     },
+     {
+      "name": "thirdDownEff",
+      "label": "3rd down efficiency",
+      "displayValue": "6-11"
+     },
+     {
+      "name": "turnovers",
+      "label": "Turnovers",
+      "displayValue": "1"
+     },
+     {
+      "name": "possessionTime",
+      "label": "Possession",
+      "displayValue": "28:10"
+     }
+    ]
+   }
+  ]
+ },
+ "leaders": [
+  {
+   "team": {
+    "id": "194"
+   },
+   "leaders": [
+    {
+     "displayName": "Passing Yards",
+     "leaders": [
+      {
+       "displayValue": "21/29, 268 YDS, 2 TD",
+       "athlete": {
+        "shortName": "J. Sayin"
+       }
+      }
+     ]
+    },
+    {
+     "displayName": "Receiving Yards",
+     "leaders": [
+      {
+       "displayValue": "7 REC, 121 YDS, 1 TD",
+       "athlete": {
+        "shortName": "J. Smith"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "team": {
+    "id": "213"
+   },
+   "leaders": [
+    {
+     "displayName": "Rushing Yards",
+     "leaders": [
+      {
+       "displayValue": "18 CAR, 97 YDS",
+       "athlete": {
+        "shortName": "K. Allen"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
